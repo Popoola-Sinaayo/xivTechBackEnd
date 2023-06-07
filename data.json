@@ -1,0 +1,158 @@
+[
+  {
+    "country": {
+      "name": "Lagos",
+      "latitude": 6.4550575,
+      "longitude": 3.3941795,
+      "country": "NG",
+      "state": "Lagos State"
+    },
+    "data": {
+      "latitude": 6.5,
+      "longitude": 3.375,
+      "generationtime_ms": 0.34105777740478516,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 8,
+      "current_weather": {
+        "temperature": 27.6,
+        "windspeed": 4.7,
+        "winddirection": 212,
+        "weathercode": 3,
+        "is_day": 0,
+        "time": "2023-06-06T23:00"
+      }
+    }
+  },
+  {
+    "country": {
+      "name": "Ibadan",
+      "latitude": 7.3777462,
+      "longitude": 3.8972497,
+      "country": "NG",
+      "state": "Oyo State"
+    },
+    "data": {
+      "latitude": 7.375,
+      "longitude": 3.875,
+      "generationtime_ms": 0.24497509002685547,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 211,
+      "current_weather": {
+        "temperature": 24.9,
+        "windspeed": 6.6,
+        "winddirection": 193,
+        "weathercode": 3,
+        "is_day": 0,
+        "time": "2023-06-06T23:00"
+      }
+    }
+  },
+  {
+    "country": {
+      "name": "Abia",
+      "latitude": 5.533333,
+      "longitude": 7.883333,
+      "country": "NG",
+      "state": "Abia State"
+    },
+    "data": {
+      "latitude": 5.5,
+      "longitude": 7.875,
+      "generationtime_ms": 5.088925361633301,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 48,
+      "current_weather": {
+        "temperature": 25.4,
+        "windspeed": 5.4,
+        "winddirection": 188,
+        "weathercode": 3,
+        "is_day": 0,
+        "time": "2023-06-06T23:00"
+      }
+    }
+  },
+  {
+    "country": {
+      "name": "Lagos",
+      "latitude": 6.4550575,
+      "longitude": 3.3941795,
+      "country": "NG",
+      "state": "Lagos State"
+    },
+    "data": {
+      "latitude": 6.5,
+      "longitude": 3.375,
+      "generationtime_ms": 0.2980232238769531,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 8,
+      "current_weather": {
+        "temperature": 27.6,
+        "windspeed": 4.7,
+        "winddirection": 212,
+        "weathercode": 3,
+        "is_day": 0,
+        "time": "2023-06-06T23:00"
+      }
+    }
+  },
+  {
+    "country": {
+      "name": "Ibadan",
+      "latitude": 7.3777462,
+      "longitude": 3.8972497,
+      "country": "NG",
+      "state": "Oyo State"
+    },
+    "data": {
+      "latitude": 7.375,
+      "longitude": 3.875,
+      "generationtime_ms": 0.29206275939941406,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 211,
+      "current_weather": {
+        "temperature": 24.9,
+        "windspeed": 6.6,
+        "winddirection": 193,
+        "weathercode": 3,
+        "is_day": 0,
+        "time": "2023-06-06T23:00"
+      }
+    }
+  },
+  {
+    "country": {
+      "name": "Abia",
+      "latitude": 5.533333,
+      "longitude": 7.883333,
+      "country": "NG",
+      "state": "Abia State"
+    },
+    "data": {
+      "latitude": 5.5,
+      "longitude": 7.875,
+      "generationtime_ms": 0.2460479736328125,
+      "utc_offset_seconds": 0,
+      "timezone": "GMT",
+      "timezone_abbreviation": "GMT",
+      "elevation": 48,
+      "current_weather": {
+        "temperature": 25.4,
+        "windspeed": 5.4,
+        "winddirection": 188,
+        "weathercode": 3,
+        "is_day": 0,
+        "time": "2023-06-06T23:00"
+      }
+    }
+  }
+]
